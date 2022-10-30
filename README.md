@@ -17,6 +17,6 @@ This app will run in the browser and will feature dynamically updated HTML and C
 <img width="1440" alt="Password_Generator" src="https://user-images.githubusercontent.com/107882457/198906579-f3e07c21-405b-4b4f-9eb0-c14f1a00ba5b.png">
 
 
-Repository Link: 
+Repository Link: https://github.com/alirudnick/Password-Generator_Rudnick.git
 
-Link to Live: 
+Link to Live: https://alirudnick.github.io/Password-Generator_Rudnick/
